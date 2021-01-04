@@ -1,0 +1,7 @@
+/build
+/node_modules
+/.idea
+/.vscode/*
+/package.json
+/package-lock.json
+/public/manifest.json
